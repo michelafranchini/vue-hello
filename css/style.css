@@ -1,0 +1,16 @@
+#root {
+    text-align: center;
+    position: relative;
+}
+
+button {
+    display: block;
+    position: absolute;
+    top: 9%; 
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h1 {
+    padding-bottom: 60px;
+}
